@@ -7,7 +7,7 @@
 
 ### **2. 블럭도**
 
-![블럭도](https://user-images.githubusercontent.com/105420733/170251452-5975d564-d7d8-4dd5-8a4d-de74bf7d207d.png)
+![스크린샷(66)](https://user-images.githubusercontent.com/105420733/170254203-b201b56a-5249-462b-9ef7-e47de8cbcc74.png)
 
 
 ### **3. 진행사항**
