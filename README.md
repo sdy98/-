@@ -12,5 +12,14 @@
 
 ### **3. 진행사항**
 
-* 12주차
-  * 웹서버 부분
+
+* 웹서버 부분
+ >플라스크 라이브 웹스트리밍
+
+
+![Hnet-image](https://user-images.githubusercontent.com/105420733/170521420-48f7b16f-75a5-469e-91fe-d81626b120f0.gif)
+  
+  
+  
+* Teachable Machine
+>
