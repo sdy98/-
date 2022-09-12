@@ -28,3 +28,16 @@
 * Raspberry Pi Zero W > Arduino Nano RP2040 Connect 로 변경
 
 ![사양](https://user-images.githubusercontent.com/105420733/170625585-af5e94cb-bba4-4fac-a0e9-2befb2a7de36.png)
+
+
+* 웹서버 부분
+  > highchart를 이용하여 무작위 값을 받아 flask 웹 서버에 실시간 그래프 그리기 구현
+  
+https://user-images.githubusercontent.com/105426407/189661083-6a44f2b4-d70a-41ae-bcaa-f911bb8d9640.mp4
+
+
+
+> 실시간 영상처리를 이용하여 flask 웹 서버에 실시간 얼굴인식 기능 사용
+
+![스크린샷(8)](https://user-images.githubusercontent.com/105426407/189661648-2213aef7-53dd-46c2-870c-888f1f90c738.png)
+flask 웹 서버에서 실시간 영상처리 사용하면 반응속도가 느려짐
